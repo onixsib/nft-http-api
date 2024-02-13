@@ -1,6 +1,6 @@
 module github.com/samber/nft-http-api
 
-go 1.13
+go 1.20
 
 require (
 	github.com/bytedance/sonic v1.10.2 // indirect
